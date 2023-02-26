@@ -1,0 +1,4 @@
+name: Returnplugin
+version: '${project.version}'
+main: jp.thirtycraft.returnplugin.Returnplugin
+api-version: 1.19
